@@ -100,7 +100,7 @@ h1{
 
 
 .footer_container{
-   background-image: url(/images/image-footer.jpg);
+   background-image: url(image-footer.jpg);
    height: auto;
 }
 
@@ -126,6 +126,10 @@ align-items: center;
    color: white;
    font-weight: 100;
    font-family: 'Red Hat Display', sans-serif;
+}
+
+@media screen {
+   
 }
 
 
